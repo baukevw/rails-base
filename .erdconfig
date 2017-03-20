@@ -1,0 +1,12 @@
+attributes:
+  - content
+  - foreign_key
+  - primary_key
+  - inheritance
+filename: model-erd
+filetype: pdf
+indirect: true
+inheritance: true
+markup: true
+title: Model structure
+sort: false
