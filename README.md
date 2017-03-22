@@ -20,7 +20,7 @@ This Rails Base installation contains an extended gemfile. Included are the foll
 ### Usage
 Before you start, you'll need to rename the project:
 
-```rails g rename:into New-Name```
+```rails g rename:app_to New-Name```
 
 Now you can create your Database by doing:
 
