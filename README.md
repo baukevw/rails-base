@@ -18,7 +18,15 @@ This Rails Base installation contains an extended gemfile. Included are the foll
 * Simplecov
 
 ### Usage
-Before you start, you'll need to rename the project:
+
+Clone the project to your local machine:
+
+```git clone git@github.com:baukevw/rails-base.git```
+
+And run:
+```bundle install```
+
+Before you start your project, you'll need to rename the project first:
 
 ```rails g rename:app_to New-Name```
 
