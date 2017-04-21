@@ -23,7 +23,13 @@ Clone the project to your local machine:
 
 ```git clone git@github.com:baukevw/rails-base.git```
 
-And run:
+Go to the directory:
+```cd rails-base```
+
+Remove the git repository:
+```rm -rf .git```
+
+Now install the gems, run:
 ```bundle install```
 
 Before you start your project, you'll need to rename the project first:
