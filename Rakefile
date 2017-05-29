@@ -4,3 +4,8 @@
 require_relative 'config/application'
 
 Rails.application.load_tasks
+
+desc 'Rubocop linting task'
+task :rubocop do
+  sh 'rubocop -R --fail-level W app'
+end
